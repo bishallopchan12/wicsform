@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "bkBXMdOZ5cJMTrbuhep0UtyzslkR0BehLyVX73Gey6B3Qf6SR+9gh+TzAb/NM0nzBRClZZBMMq4HpsDwUavBmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bishal Lama\\OneDrive\\Desktop\\c#\\semVBCA\\bca-sem-v\\Bishal-Lama\\WaterConsumptionInformationSystem\\WaterConsumptionInformationSystem\\WaterConsumptionInformationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bishal Lama\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
+    "C:\\Users\\Bishal Lama\\.nuget\\packages\\bunifu.ui.winforms\\6.3.0\\bunifu.ui.winforms.6.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Bunifu.UI.WinForms 6.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Bunifu.UI.WinForms",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
